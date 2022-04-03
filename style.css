@@ -49,7 +49,7 @@ h4,
 h5,
 h6,
 p {
-  font-family: lato;
+  font-family: lato ,sans-serif;
 }
 #poste {
   text-align: center;
@@ -377,4 +377,10 @@ p {
 }
 #carouselExampleIndicators {
   background-color: antiquewhite;
+}
+.carousel-control-next-icon{
+  background-color:grey;
+}
+.carousel-control-prev-icon{
+  background-color: grey;
 }
