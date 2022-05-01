@@ -388,3 +388,9 @@ p {
 .carousel-control-prev-icon{
   background-color: grey;
 }
+p.detailRea{
+  margin-left: 18%; 
+}
+p.detailRea2 {
+  margin-left: 10%;
+}
